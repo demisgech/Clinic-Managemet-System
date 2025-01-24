@@ -2,6 +2,19 @@
 
 ## Project Structure
 
+```sh
+Clinic_management/
+└── src/
+    └── org/
+        └── clinic/
+            └── system/
+                ├── ClinicSystem.java
+                ├── ClinicDataStore.java
+                ├── Patient.java
+                ├── StaffMember.java
+                └── MedicalRecord.java
+```
+
 ```java
 package org.clinic.sytem;
 
